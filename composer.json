@@ -1,0 +1,16 @@
+{
+    "name": "ahmad/php-restfull-api",
+    "description": "Project Rest Full Api PHP Native",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ahmad\\PhpRestfullApi\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmad Susanto"
+        }
+    ],
+    "require": {}
+}
